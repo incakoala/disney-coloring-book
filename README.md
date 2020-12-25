@@ -1,3 +1,5 @@
+**Note:** this repo was cloned from the original repo from my university Github where we used for development
+
 <h1 align="center"><img src="https://res.cloudinary.com/devjzx2qq/image/upload/v1608071052/Screen_Shot_2020-12-14_at_9.26.28_PM_s5iepi.jpg" width="80%"></h1>
 
 **<p align="center"> --Team Disney Villains--</p>**
@@ -37,11 +39,11 @@ The application is a full-stack service that is built using the MERN stack as we
 
 
 ## Team Disney Villains
-Shyla Suri (ssuri)
+Shyla Suri
 
-Vy Thai (Thaivy)
+Vy Thai
 
-Laura Worboys (lauraworboys)
+Laura Worboys
 
 ## Main Features
 * Create an account / sign in / sign out

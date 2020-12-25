@@ -1,4 +1,4 @@
-**Note:** this repo was cloned from the original repo from my university Github where we used for development
+**Note:** this repo was cloned from my university's Github where we originally used for development
 
 <h1 align="center"><img src="https://res.cloudinary.com/devjzx2qq/image/upload/v1608071052/Screen_Shot_2020-12-14_at_9.26.28_PM_s5iepi.jpg" width="80%"></h1>
 
